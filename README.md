@@ -1,6 +1,4 @@
-# 🎈 Blank app template
 
-A simple Streamlit app template for you to modify!
 
 [![Open in Streamlit]https://dbtestllm.streamlit.app/
 ### How to run it on your own machine
